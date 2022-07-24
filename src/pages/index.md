@@ -18,5 +18,5 @@ Mouse (Client Only):
 
 <router-link to="/a">/a</router-link><br>
 <router-link to="/b">/b</router-link><br>
-<router-link to="/nested/deep/b">/nested/deep/b</router-link>
-<router-link to="/dynamic/omma">/dynamic/name</router-link>
+<router-link to="/nested/deep/b">/nested/deep/b</router-link><br>
+<router-link to="/users/omma">/users/name</router-link>
